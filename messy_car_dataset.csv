@@ -1,0 +1,457 @@
+price,year,make,model,condition,cylinders,drive,odometer,paint,title_status,transmission,vehicle_type
+"$7,500",2015,Nissan,Versa Note SV,excellent,4 cylinders,fwd,102700,white,clean,automatic,hatchback
+"$3,800",2006,honda,odyssey,good,6 cylinders,fwd,200000,silver,clean,automatic,mini-van
+"$5,700",2005,honda,cr-v ex,excellent,4 cylinders,4wd,133461,black,clean,automatic,SUV
+"$9,995",2012,Audi,A3 2.0T Premium Plus,good,4 cylinders,fwd,96749,black,clean,automatic,hatchback
+"$4,650",2004,lincoln,aviator  awd,excellent,8 cylinders,4wd,152000,white,clean,automatic,SUV
+"$5,995",2010,dodge,durango slt 4x4,excellent,8 cylinders,4wd,191000,white,clean,automatic,SUV
+"$3,200",2007,Toyota,Prius Hybrid,fair,4 cylinders,fwd,253447,silver,clean,automatic,hatchback
+"$7,650",2014,dodge,grand caravan,excellent,6 cylinders,fwd,137000,white,clean,automatic,mini-van
+"$17,950",2021,TOYOTA,MARAI XLE,like new,other,rwd,11200,grey,clean,automatic,sedan
+"$5,500",2008,nissan,altima 2.5s,excellent,4 cylinders,fwd,151000,grey,clean,automatic,coupe
+"$15,000",1993,Chevy,G30 van,good,8 cylinders,4wd,208000,grey,clean,automatic,van
+"$17,000",2012,Infiniti,G37 Convertible,good,6 cylinders,rwd,101500,grey,clean,automatic,convertible
+"$20,500",2016,bmw,535i xdrive,excellent,6 cylinders,4wd,70000,blue,clean,automatic,sedan
+"$8,400",2015,chrysler,town and country,excellent,6 cylinders,fwd,85387,grey,clean,automatic,van
+"$32,000",2016,porsche,macan s,like new,6 cylinders,4wd,89754,black,clean,automatic,SUV
+"$9,580",2012,SUBARU,FORESTER  2.5X PREMIUM,like new,4 cylinders,4wd,129000,silver,clean,automatic,SUV
+"$35,000",1960,ford,thunderbird deluxe,excellent,8 cylinders,rwd,5000,custom,clean,automatic,other
+"$26,500",2018,audi,a3 e-tron,excellent,4 cylinders,fwd,27469,white,clean,automatic,hatchback
+"$23,000",2007,ford,mustang shelby gt500,excellent,8 cylinders,rwd,98000,red,clean,manual,convertible
+"$7,500",2010,Mazda3,s Grand Touring Hatchback,good,4 cylinders,fwd,146000,grey,clean,manual,hatchback
+"$6,900",2008,bmw,x5 3.0si,good,6 cylinders,4wd,130000,white,clean,automatic,SUV
+"$27,998",2021,mazda,mx-5 miata grand touring,like new,4 cylinders,rwd,13127,red,clean,manual,convertible
+"$9,250",2013,toyota,prius c,like new,4 cylinders,fwd,128258,blue,salvage,automatic,hatchback
+"$67,900",2020,Land,Rover Range Rover,excellent,6 cylinders,4wd,34750,white,clean,automatic,SUV
+"$12,500",2014,mazda,6,excellent,4 cylinders,fwd,137250,white,clean,automatic,sedan
+"$5,500",2010,dodge,journey r/t,good,6 cylinders,4wd,137000,black,clean,automatic,SUV
+"$10,500",2003,toyota,tacoma,good,6 cylinders,4wd,180000,white,salvage,manual,truck
+"$2,500",2000,nissan,maxima,good,6 cylinders,fwd,208000,blue,clean,automatic,sedan
+"$13,200",2015,honda,civic si,like new,4 cylinders,fwd,92138,white,salvage,manual,sedan
+"$8,500",1975,mg,mgb,good,8 cylinders,rwd,64000,white,clean,manual,convertible
+"$14,900",1997,mercedes,sl320,like new,6 cylinders,rwd,46550,white,clean,automatic,convertible
+"$1,100",1999,1999,Chrysler,fair,6 cylinders,fwd,80000,green,clean,automatic,sedan
+"$3,500",2012,nissan,sentra sl,good,4 cylinders,fwd,160800,silver,clean,automatic,sedan
+"$41,000",2019,ford,f-150,excellent,6 cylinders,4wd,42000,silver,clean,automatic,truck
+"$14,300",2005,2005,Toyota Landcruiser,good,8 cylinders,4wd,239000,white,clean,automatic,SUV
+"$6,000",1996,cadillac,deville,excellent,8 cylinders,fwd,115000,white,clean,automatic,sedan
+"$8,500",2008,mazda,mazdaspeed3,good,4 cylinders,fwd,148744,black,clean,manual,hatchback
+"$9,750",2013,mini,cooper s,like new,4 cylinders,fwd,111000,blue,clean,automatic,coupe
+"$78,900",2018,ford,f 350 4x4,like new,8 cylinders,4wd,46500,white,clean,automatic,truck
+"$9,900",2013,volkswagen,tiguan s,excellent,4 cylinders,fwd,96825,silver,clean,automatic,SUV
+"$2,000",2002,2002,Honda Accord SE,salvage,4 cylinders,fwd,260000,red,salvage,automatic,sedan
+"$27,500",2017,mercedes-benz,s-class s550,excellent,8 cylinders,rwd,79000,blue,clean,automatic,sedan
+"$5,900",2007,ford,focus,good,4 cylinders,fwd,49000,white,clean,automatic,hatchback
+"$28,500",2018,2018,BMW 430i,excellent,4 cylinders,rwd,30700,white,clean,automatic,convertible
+"$26,991",1995,Mercedes-Benz,E Class,like new,6 cylinders,rwd,48069,custom,clean,automatic,convertible
+"$108,888",2022,Tesla,X,new,other,4wd,200,grey,clean,automatic,SUV
+"$54,991",2020,BMW,3 Series,like new,6 cylinders,4wd,14350,blue,clean,automatic,sedan
+"$12,991",1979,Chevrolet,Silverado 1500 Classic,like new,8 cylinders,rwd,67023,red,clean,automatic,truck
+"$56,991",2020,Cadillac,Escalade ESV,like new,8 cylinders,4wd,59350,white,clean,automatic,SUV
+"$55,000",1974,VW,Type 2 Westfalia,excellent,4 cylinders,rwd,59000,custom,clean,manual,bus
+"$28,991",2006,Chevrolet,Corvette,like new,8 cylinders,rwd,38355,red,clean,automatic,coupe
+"$45,991",2016,Land,Rover Range Rover,like new,8 cylinders,4wd,54537,white,clean,automatic,SUV
+"$16,000",2014,toyota,sienna se,like new,6 cylinders,fwd,65122,custom,clean,automatic,van
+"$42,991",2018,Dodge,Charger,like new,8 cylinders,rwd,27594,blue,clean,automatic,sedan
+"$22,991",2008,Chevrolet,Corvette,like new,8 cylinders,rwd,85575,yellow,clean,automatic,coupe
+"$38,991",2018,Mercedes-Benz,E-Class,like new,6 cylinders,rwd,42238,silver,clean,automatic,coupe
+"$45,991",2017,Cadillac,Escalade,like new,8 cylinders,4wd,48595,black,clean,automatic,SUV
+"$15,000",2012,bmw,650i convertible,good,8 cylinders,rwd,82800,black,clean,automatic,convertible
+"$36,991",2019,Lexus,GS,like new,6 cylinders,rwd,53484,custom,clean,automatic,sedan
+"$65,000",2006,dodge,sprinter 2500 hightop,like new,5 cylinders,fwd,107573,white,clean,automatic,van
+"$58,991",2018,Jeep,Grand Cherokee,like new,8 cylinders,4wd,52952,red,clean,automatic,wagon
+"$81,991",2020,BMW,X5 M,like new,8 cylinders,4wd,44443,black,clean,automatic,wagon
+"$41,991",2018,Toyota,4Runner,like new,6 cylinders,4wd,24025,red,clean,automatic,SUV
+"$32,991",2017,Maserati,Ghibli,like new,6 cylinders,rwd,28831,custom,clean,automatic,sedan
+"$7,500",2004,Toyota,4Runner,good,6 cylinders,rwd,215000,silver,clean,automatic,SUV
+"$143,991",2014,Ferrari,California,like new,8 cylinders,rwd,4442,custom,clean,automatic,convertible
+"$55,991",2017,Mercedes-Benz,C-Class,like new,8 cylinders,rwd,24749,white,clean,automatic,coupe
+"$12,000",2010,GLS,550,excellent,8 cylinders,4wd,128200,black,clean,automatic,SUV
+"$58,991",2017,Mercedes-Benz,GLE,like new,8 cylinders,4wd,40176,black,clean,automatic,wagon
+"$38,991",2007,Honda,S2000,like new,4 cylinders,fwd,53009,black,clean,manual,convertible
+"$10,700",2012,BMW,328i M-Sport Conv.,excellent,6 cylinders,rwd,99900,grey,clean,automatic,convertible
+"$32,991",2009,Mercedes-Benz,CL-Class,like new,8 cylinders,rwd,45909,black,clean,automatic,coupe
+"$25,991",2018,Audi,A3 Sedan,like new,4 cylinders,4wd,40493,red,clean,automatic,sedan
+"$54,991",2020,Mercedes-Benz,CLS,like new,6 cylinders,rwd,40317,black,clean,automatic,coupe
+"$15,991",2015,Hyundai,Sonata,like new,4 cylinders,fwd,51946,custom,clean,automatic,sedan
+"$37,000",2014,ford,f-150 raptor,excellent,8 cylinders,4wd,92000,black,clean,automatic,pickup
+"$44,991",2017,Land,Rover Range Rover Sport,like new,8 cylinders,4wd,64033,black,clean,automatic,SUV
+"$39,991",2020,Ford,Mustang,like new,8 cylinders,rwd,20483,custom,clean,other,coupe
+"$33,991",2021,Ford,Explorer,like new,4 cylinders,rwd,30254,red,clean,automatic,wagon
+"$66,991",2018,Dodge,Charger,like new,8 cylinders,rwd,34487,white,clean,automatic,sedan
+"$6,500",1990,Mazda,miata,good,4 cylinders,rwd,180000,yellow,clean,automatic,convertible
+"$42,991",2019,Chevrolet,Camaro,like new,8 cylinders,rwd,37964,white,clean,automatic,coupe
+"$23,991",2018,Chrysler,300,like new,6 cylinders,rwd,64769,blue,clean,automatic,sedan
+"$36,991",2014,Chevrolet,Silverado 1500,like new,8 cylinders,rwd,58316,grey,clean,automatic,truck
+"$5,500",2000,Chevy,"Silverado, LS 1500",good,8 cylinders,rwd,244000,blue,clean,automatic,pickup
+"$17,000",2013,2013,toyota sienna le,excellent,6 cylinders,fwd,119000,red,clean,automatic,van
+"$25,991",2020,Nissan,Maxima,like new,6 cylinders,fwd,64120,silver,clean,automatic,sedan
+"$54,991",2020,Chevrolet,Silverado 1500,like new,8 cylinders,4wd,18677,white,clean,automatic,truck
+"$16,500",2006,chevy,silverado 2500hd,excellent,8 cylinders,4wd,145000,white,clean,automatic,pickup
+"$21,991",2021,Volkswagen,Jetta,like new,4 cylinders,fwd,39977,red,clean,automatic,sedan
+"$10,900",2001,2001,Toyota Tacoma,good,6 cylinders,rwd,170000,red,clean,automatic,truck
+"$15,900",2003,Toyota,Tacoma,excellent,4 cylinders,4wd,140000,red,clean,manual,truck
+"$27,500",2020,Volkswagen,Passat,like new,4 cylinders,fwd,31584,silver,clean,automatic,sedan
+"$68,991",2019,BMW,M5,like new,8 cylinders,4wd,35391,grey,clean,automatic,sedan
+"$14,900",2012,ford,f-350 super duty,good,8 cylinders,rwd,161815,white,clean,automatic,truck
+"$15,700",2015,honda,civic se,excellent,4 cylinders,fwd,55000,silver,clean,automatic,sedan
+"$15,995",2014,toyota,sienna,excellent,6 cylinders,fwd,128360,grey,clean,automatic,mini-van
+"$6,995",2014,chevrolet,impala,excellent,6 cylinders,fwd,108200,white,clean,automatic,sedan
+"$8,995",2008,lexus,es350,excellent,6 cylinders,fwd,142800,black,clean,automatic,sedan
+"$8,995",2011,hyundai,genesis,excellent,4 cylinders,rwd,131350,blue,clean,manual,coupe
+"$10,995",2003,nissan,350z,excellent,6 cylinders,rwd,128200,silver,clean,automatic,coupe
+"$7,995",2005,nissan,murano,excellent,6 cylinders,4wd,71800,grey,clean,automatic,SUV
+"$8,995",2006,chevrolet,colorado,excellent,5 cylinders,rwd,130000,white,clean,automatic,truck
+"$31,500",2003,hummer,h2,like new,8 cylinders,4wd,78030,orange,clean,automatic,SUV
+"$9,495",2007,toyota,camry,excellent,4 cylinders,fwd,83700,silver,clean,automatic,sedan
+"$9,995",2014,chevrolet,volt,excellent,4 cylinders,fwd,100650,white,clean,automatic,hatchback
+"$8,995",2009,honda,odyssey,excellent,6 cylinders,fwd,120000,grey,clean,automatic,mini-van
+"$8,995",2008,bmw,x3,excellent,6 cylinders,4wd,75000,grey,clean,automatic,SUV
+"$24,000",2015,mercedes,benz e350,like new,6 cylinders,rwd,44000,silver,clean,automatic,sedan
+"$5,000",2011,Chevy,traverse,good,6 cylinders,4wd,166000,grey,clean,automatic,SUV
+"$33,000",2017,chevy,camaro,excellent,8 cylinders,rwd,38890,black,clean,manual,coupe
+"$34,991",2020,BMW,X1,like new,4 cylinders,4wd,14125,blue,clean,automatic,wagon
+"$6,500",2007,toyota,sequoia,good,8 cylinders,4wd,220000,red,clean,automatic,SUV
+"$39,000",2018,Chevy,Silverado 1500 Lt 4x4,new,8 cylinders,4wd,10977,grey,clean,automatic,truck
+"$2,995",2001,TOYOTA,CAMRY,good,4 cylinders,fwd,173087,silver,clean,automatic,sedan
+"$6,000",2010,Mercedes,Benz E350,good,6 cylinders,rwd,174650,blue,clean,automatic,sedan
+"$57,891",2018,Dodge,Durango,like new,8 cylinders,4wd,34556,white,clean,automatic,wagon
+"$49,991",2015,Mercedes-Benz,S-Class,like new,8 cylinders,rwd,51900,silver,clean,automatic,coupe
+"$6,500",2010,Toyota,Prius Hybrid,excellent,4 cylinders,fwd,198500,white,clean,automatic,hatchback
+"$26,991",2016,BMW,4 Series,like new,4 cylinders,rwd,26261,white,clean,automatic,coupe
+"$15,991",2014,Mazda,MAZDA3,like new,4 cylinders,fwd,79087,white,clean,automatic,sedan
+"$8,000",2007,lexus,is 250,excellent,6 cylinders,rwd,160000,blue,clean,automatic,sedan
+"$9,500",2001,2001, Jaguar XJ8L,excellent,8 cylinders,rwd,125600,silver,clean,automatic,sedan
+"$9,500",2001,2001, Jaguar XJ8L,excellent,8 cylinders,rwd,124600,silver,clean,automatic,sedan
+"$4,000",2006,Honda,Pilot,excellent,8 cylinders,4wd,324907,red,clean,automatic,SUV
+"$15,999",2014,toyota,prius,excellent,4 cylinders,fwd,78795,white,clean,automatic,hatchback
+"$11,750",1998,1997,Jaguar XK8,excellent,8 cylinders,rwd,99229,blue,clean,automatic,convertible
+"$17,900",2019,honda,accord,excellent,4 cylinders,fwd,53000,grey,salvage,automatic,sedan
+"$1,100",2011,honda,accord,fair,4 cylinders,fwd,332000,black,clean,automatic,coupe
+"$2,000",1987,chevy,corvette,fair,8 cylinders,rwd,165000,blue,clean,automatic,coupe
+"$6,500",2014,bmw,320,good,4 cylinders,rwd,150000,grey,clean,automatic,sedan
+"$2,950",2001,lexus,is 300,good,4 cylinders,fwd,200000,grey,clean,automatic,sedan
+"$6,900",2008,lexus,rx 350,new,6 cylinders,fwd,125258,blue,clean,automatic,SUV
+"$35,000",2022,hyundai,tucson limited Hybrid,like new,4 cylinders,4wd,15500,grey,clean,automatic,SUV
+"$14,500",1980,Mercedes,450SL,excellent,8 cylinders,rwd,57000,white,clean,automatic,convertible
+"$6,500",2000,gmc,sierra 1500,good,8 cylinders,4wd,179000,brown,clean,automatic,truck
+"$8,995",2015,2015,nissan altima s,excellent,4 cylinders,fwd,112000,silver,clean,automatic,sedan
+"$6,500",2001,mercedes,benz clk430,excellent,8 cylinders,rwd,140000,black,clean,automatic,convertible
+"$28,000",2015,toyota,tacoma,excellent,6 cylinders,rwd,24963,silver,clean,automatic,truck
+"$4,500",1999,chevrolet,tahoe,good,8 cylinders,4wd,160000,white,clean,automatic,SUV
+"$5,000",2007,mini,cooper s,good,4 cylinders,fwd,125000,custom,clean,automatic,convertible
+"$24,700",2011,land,rover range rover sport,excellent,8 cylinders,4wd,78000,white,clean,automatic,SUV
+"$15,650",2017,subaru,outback,excellent,4 cylinders,4wd,119352,white,clean,automatic,wagon
+"$4,950",2002,chevy,astro ls,excellent,6 cylinders,fwd,141345,blue,clean,automatic,mini-van
+"$29,500",2006,ford,f350 lariat,good,8 cylinders,4wd,95000,blue,clean,automatic,truck
+"$9,300",2001,Dodge,Ram 2500 4wd,good,8 cylinders,4wd,137000,red,clean,automatic,pickup
+"$55,000",2021,2021,Ram Rebel,like new,8 cylinders,4wd,37283,black,clean,automatic,truck
+"$29,000",2017,toyota,sienna se,like new,6 cylinders,fwd,49988,black,clean,automatic,mini-van
+"$49,995",1957,chevrolet,3100 pickup,excellent,8 cylinders,rwd,765,black,clean,automatic,pickup
+"$4,400",2006,mercedes,benz c230 sport,excellent,6 cylinders,rwd,191000,silver,clean,automatic,sedan
+"$7,995",2014,2014,subaru legacy,excellent,4 cylinders,fwd,164000,white,clean,automatic,sedan
+"$5,800",1995,honda,del sol,good,4 cylinders,fwd,132212,black,clean,automatic,coupe
+"$7,500",2015,Nissan,Versa Note SV,excellent,4 cylinders,fwd,102700,white,clean,automatic,hatchback
+"$3,800",2006,honda,odyssey,good,6 cylinders,fwd,200000,silver,clean,automatic,mini-van
+"$5,700",2005,honda,cr-v ex,excellent,4 cylinders,4wd,133461,black,clean,automatic,SUV
+"$9,995",2012,Audi,A3 2.0T Premium Plus,good,4 cylinders,fwd,96749,black,clean,automatic,hatchback
+"$4,650",2004,lincoln,aviator  awd,excellent,8 cylinders,4wd,152000,white,clean,automatic,SUV
+"$5,995",2010,dodge,durango slt 4x4,excellent,8 cylinders,4wd,191000,white,clean,automatic,SUV
+"$3,200",2007,Toyota,Prius Hybrid,fair,4 cylinders,fwd,253447,silver,clean,automatic,hatchback
+"$7,650",2014,dodge,grand caravan,excellent,6 cylinders,fwd,137000,white,clean,automatic,mini-van
+"$17,950",2021,TOYOTA,MARAI XLE,like new,other,rwd,11200,grey,clean,automatic,sedan
+"$5,500",2008,nissan,altima 2.5s,excellent,4 cylinders,fwd,151000,grey,clean,automatic,coupe
+"$15,000",1993,Chevy,G30 van,good,8 cylinders,4wd,208000,grey,clean,automatic,van
+"$17,000",2012,Infiniti,G37 Convertible,good,6 cylinders,rwd,101500,grey,clean,automatic,convertible
+"$20,500",2016,bmw,535i xdrive,excellent,6 cylinders,4wd,70000,blue,clean,automatic,sedan
+"$8,400",2015,chrysler,town and country,excellent,6 cylinders,fwd,85387,grey,clean,automatic,van
+"$32,000",2016,porsche,macan s,like new,6 cylinders,4wd,89754,black,clean,automatic,SUV
+"$9,580",2012,SUBARU,FORESTER  2.5X PREMIUM,like new,4 cylinders,4wd,129000,silver,clean,automatic,SUV
+"$35,000",1960,ford,thunderbird deluxe,excellent,8 cylinders,rwd,5000,custom,clean,automatic,other
+"$26,500",2018,audi,a3 e-tron,excellent,4 cylinders,fwd,27469,white,clean,automatic,hatchback
+"$23,000",2007,ford,mustang shelby gt500,excellent,8 cylinders,rwd,98000,red,clean,manual,convertible
+"$7,500",2010,Mazda3,s Grand Touring Hatchback,good,4 cylinders,fwd,146000,grey,clean,manual,hatchback
+"$6,900",2008,bmw,x5 3.0si,good,6 cylinders,4wd,130000,white,clean,automatic,SUV
+"$27,998",2021,mazda,mx-5 miata grand touring,like new,4 cylinders,rwd,13127,red,clean,manual,convertible
+"$9,250",2013,toyota,prius c,like new,4 cylinders,fwd,128258,blue,salvage,automatic,hatchback
+"$67,900",2020,Land,Rover Range Rover,excellent,6 cylinders,4wd,34750,white,clean,automatic,SUV
+"$12,500",2014,mazda,6,excellent,4 cylinders,fwd,137250,white,clean,automatic,sedan
+"$5,500",2010,dodge,journey r/t,good,6 cylinders,4wd,137000,black,clean,automatic,SUV
+"$10,500",2003,toyota,tacoma,good,6 cylinders,4wd,180000,white,salvage,manual,truck
+"$2,500",2000,nissan,maxima,good,6 cylinders,fwd,208000,blue,clean,automatic,sedan
+"$13,200",2015,honda,civic si,like new,4 cylinders,fwd,92138,white,salvage,manual,sedan
+"$8,500",1975,mg,mgb,good,8 cylinders,rwd,64000,white,clean,manual,convertible
+"$14,900",1997,mercedes,sl320,like new,6 cylinders,rwd,46550,white,clean,automatic,convertible
+"$1,100",1999,1999,Chrysler,fair,6 cylinders,fwd,80000,green,clean,automatic,sedan
+"$3,500",2012,nissan,sentra sl,good,4 cylinders,fwd,160800,silver,clean,automatic,sedan
+"$41,000",2019,ford,f-150,excellent,6 cylinders,4wd,42000,silver,clean,automatic,truck
+"$14,300",2005,2005,Toyota Landcruiser,good,8 cylinders,4wd,239000,white,clean,automatic,SUV
+"$6,000",1996,cadillac,deville,excellent,8 cylinders,fwd,115000,white,clean,automatic,sedan
+"$8,500",2008,mazda,mazdaspeed3,good,4 cylinders,fwd,148744,black,clean,manual,hatchback
+"$9,750",2013,mini,cooper s,like new,4 cylinders,fwd,111000,blue,clean,automatic,coupe
+"$78,900",2018,ford,f 350 4x4,like new,8 cylinders,4wd,46500,white,clean,automatic,truck
+"$9,900",2013,volkswagen,tiguan s,excellent,4 cylinders,fwd,96825,silver,clean,automatic,SUV
+"$2,000",2002,2002,Honda Accord SE,salvage,4 cylinders,fwd,260000,red,salvage,automatic,sedan
+"$27,500",2017,mercedes-benz,s-class s550,excellent,8 cylinders,rwd,79000,blue,clean,automatic,sedan
+"$5,900",2007,ford,focus,good,4 cylinders,fwd,49000,white,clean,automatic,hatchback
+"$28,500",2018,2018,BMW 430i,excellent,4 cylinders,rwd,30700,white,clean,automatic,convertible
+"$26,991",1995,Mercedes-Benz,E Class,like new,6 cylinders,rwd,48069,custom,clean,automatic,convertible
+"$108,888",2022,Tesla,X,new,other,4wd,200,grey,clean,automatic,SUV
+"$54,991",2020,BMW,3 Series,like new,6 cylinders,4wd,14350,blue,clean,automatic,sedan
+"$12,991",1979,Chevrolet,Silverado 1500 Classic,like new,8 cylinders,rwd,67023,red,clean,automatic,truck
+"$56,991",2020,Cadillac,Escalade ESV,like new,8 cylinders,4wd,59350,white,clean,automatic,SUV
+"$55,000",1974,VW,Type 2 Westfalia,excellent,4 cylinders,rwd,59000,custom,clean,manual,bus
+"$28,991",2006,Chevrolet,Corvette,like new,8 cylinders,rwd,38355,red,clean,automatic,coupe
+"$45,991",2016,Land,Rover Range Rover,like new,8 cylinders,4wd,54537,white,clean,automatic,SUV
+"$16,000",2014,toyota,sienna se,like new,6 cylinders,fwd,65122,custom,clean,automatic,van
+"$42,991",2018,Dodge,Charger,like new,8 cylinders,rwd,27594,blue,clean,automatic,sedan
+"$22,991",2008,Chevrolet,Corvette,like new,8 cylinders,rwd,85575,yellow,clean,automatic,coupe
+"$38,991",2018,Mercedes-Benz,E-Class,like new,6 cylinders,rwd,42238,silver,clean,automatic,coupe
+"$45,991",2017,Cadillac,Escalade,like new,8 cylinders,4wd,48595,black,clean,automatic,SUV
+"$15,000",2012,bmw,650i convertible,good,8 cylinders,rwd,82800,black,clean,automatic,convertible
+"$36,991",2019,Lexus,GS,like new,6 cylinders,rwd,53484,custom,clean,automatic,sedan
+"$65,000",2006,dodge,sprinter 2500 hightop,like new,5 cylinders,fwd,107573,white,clean,automatic,van
+"$58,991",2018,Jeep,Grand Cherokee,like new,8 cylinders,4wd,52952,red,clean,automatic,wagon
+"$81,991",2020,BMW,X5 M,like new,8 cylinders,4wd,44443,black,clean,automatic,wagon
+"$41,991",2018,Toyota,4Runner,like new,6 cylinders,4wd,24025,red,clean,automatic,SUV
+"$32,991",2017,Maserati,Ghibli,like new,6 cylinders,rwd,28831,custom,clean,automatic,sedan
+"$7,500",2004,Toyota,4Runner,good,6 cylinders,rwd,215000,silver,clean,automatic,SUV
+"$143,991",2014,Ferrari,California,like new,8 cylinders,rwd,4442,custom,clean,automatic,convertible
+"$55,991",2017,Mercedes-Benz,C-Class,like new,8 cylinders,rwd,24749,white,clean,automatic,coupe
+"$12,000",2010,GLS,550,excellent,8 cylinders,4wd,128200,black,clean,automatic,SUV
+"$58,991",2017,Mercedes-Benz,GLE,like new,8 cylinders,4wd,40176,black,clean,automatic,wagon
+"$38,991",2007,Honda,S2000,like new,4 cylinders,fwd,53009,black,clean,manual,convertible
+"$10,700",2012,BMW,328i M-Sport Conv.,excellent,6 cylinders,rwd,99900,grey,clean,automatic,convertible
+"$32,991",2009,Mercedes-Benz,CL-Class,like new,8 cylinders,rwd,45909,black,clean,automatic,coupe
+"$25,991",2018,Audi,A3 Sedan,like new,4 cylinders,4wd,40493,red,clean,automatic,sedan
+"$54,991",2020,Mercedes-Benz,CLS,like new,6 cylinders,rwd,40317,black,clean,automatic,coupe
+"$15,991",2015,Hyundai,Sonata,like new,4 cylinders,fwd,51946,custom,clean,automatic,sedan
+"$37,000",2014,ford,f-150 raptor,excellent,8 cylinders,4wd,92000,black,clean,automatic,pickup
+"$44,991",2017,Land,Rover Range Rover Sport,like new,8 cylinders,4wd,64033,black,clean,automatic,SUV
+"$39,991",2020,Ford,Mustang,like new,8 cylinders,rwd,20483,custom,clean,other,coupe
+"$33,991",2021,Ford,Explorer,like new,4 cylinders,rwd,30254,red,clean,automatic,wagon
+"$66,991",2018,Dodge,Charger,like new,8 cylinders,rwd,34487,white,clean,automatic,sedan
+"$6,500",1990,Mazda,miata,good,4 cylinders,rwd,180000,yellow,clean,automatic,convertible
+"$42,991",2019,Chevrolet,Camaro,like new,8 cylinders,rwd,37964,white,clean,automatic,coupe
+"$23,991",2018,Chrysler,300,like new,6 cylinders,rwd,64769,blue,clean,automatic,sedan
+"$36,991",2014,Chevrolet,Silverado 1500,like new,8 cylinders,rwd,58316,grey,clean,automatic,truck
+"$5,500",2000,Chevy,"Silverado, LS 1500",good,8 cylinders,rwd,244000,blue,clean,automatic,pickup
+"$17,000",2013,2013,toyota sienna le,excellent,6 cylinders,fwd,119000,red,clean,automatic,van
+"$25,991",2020,Nissan,Maxima,like new,6 cylinders,fwd,64120,silver,clean,automatic,sedan
+"$54,991",2020,Chevrolet,Silverado 1500,like new,8 cylinders,4wd,18677,white,clean,automatic,truck
+"$16,500",2006,chevy,silverado 2500hd,excellent,8 cylinders,4wd,145000,white,clean,automatic,pickup
+"$21,991",2021,Volkswagen,Jetta,like new,4 cylinders,fwd,39977,red,clean,automatic,sedan
+"$10,900",2001,2001,Toyota Tacoma,good,6 cylinders,rwd,170000,red,clean,automatic,truck
+"$15,900",2003,Toyota,Tacoma,excellent,4 cylinders,4wd,140000,red,clean,manual,truck
+"$27,500",2020,Volkswagen,Passat,like new,4 cylinders,fwd,31584,silver,clean,automatic,sedan
+"$68,991",2019,BMW,M5,like new,8 cylinders,4wd,35391,grey,clean,automatic,sedan
+"$14,900",2012,ford,f-350 super duty,good,8 cylinders,rwd,161815,white,clean,automatic,truck
+"$15,700",2015,honda,civic se,excellent,4 cylinders,fwd,55000,silver,clean,automatic,sedan
+"$15,995",2014,toyota,sienna,excellent,6 cylinders,fwd,128360,grey,clean,automatic,mini-van
+"$6,995",2014,chevrolet,impala,excellent,6 cylinders,fwd,108200,white,clean,automatic,sedan
+"$8,995",2008,lexus,es350,excellent,6 cylinders,fwd,142800,black,clean,automatic,sedan
+"$8,995",2011,hyundai,genesis,excellent,4 cylinders,rwd,131350,blue,clean,manual,coupe
+"$10,995",2003,nissan,350z,excellent,6 cylinders,rwd,128200,silver,clean,automatic,coupe
+"$7,995",2005,nissan,murano,excellent,6 cylinders,4wd,71800,grey,clean,automatic,SUV
+"$8,995",2006,chevrolet,colorado,excellent,5 cylinders,rwd,130000,white,clean,automatic,truck
+"$31,500",2003,hummer,h2,like new,8 cylinders,4wd,78030,orange,clean,automatic,SUV
+"$9,495",2007,toyota,camry,excellent,4 cylinders,fwd,83700,silver,clean,automatic,sedan
+"$9,995",2014,chevrolet,volt,excellent,4 cylinders,fwd,100650,white,clean,automatic,hatchback
+"$8,995",2009,honda,odyssey,excellent,6 cylinders,fwd,120000,grey,clean,automatic,mini-van
+"$8,995",2008,bmw,x3,excellent,6 cylinders,4wd,75000,grey,clean,automatic,SUV
+"$24,000",2015,mercedes,benz e350,like new,6 cylinders,rwd,44000,silver,clean,automatic,sedan
+"$5,000",2011,Chevy,traverse,good,6 cylinders,4wd,166000,grey,clean,automatic,SUV
+"$33,000",2017,chevy,camaro,excellent,8 cylinders,rwd,38890,black,clean,manual,coupe
+"$34,991",2020,BMW,X1,like new,4 cylinders,4wd,14125,blue,clean,automatic,wagon
+"$6,500",2007,toyota,sequoia,good,8 cylinders,4wd,220000,red,clean,automatic,SUV
+"$39,000",2018,Chevy,Silverado 1500 Lt 4x4,new,8 cylinders,4wd,10977,grey,clean,automatic,truck
+"$2,995",2001,TOYOTA,CAMRY,good,4 cylinders,fwd,173087,silver,clean,automatic,sedan
+"$6,000",2010,Mercedes,Benz E350,good,6 cylinders,rwd,174650,blue,clean,automatic,sedan
+"$57,891",2018,Dodge,Durango,like new,8 cylinders,4wd,34556,white,clean,automatic,wagon
+"$49,991",2015,Mercedes-Benz,S-Class,like new,8 cylinders,rwd,51900,silver,clean,automatic,coupe
+"$6,500",2010,Toyota,Prius Hybrid,excellent,4 cylinders,fwd,198500,white,clean,automatic,hatchback
+"$26,991",2016,BMW,4 Series,like new,4 cylinders,rwd,26261,white,clean,automatic,coupe
+"$15,991",2014,Mazda,MAZDA3,like new,4 cylinders,fwd,79087,white,clean,automatic,sedan
+"$8,000",2007,lexus,is 250,excellent,6 cylinders,rwd,160000,blue,clean,automatic,sedan
+"$9,500",2001,2001, Jaguar XJ8L,excellent,8 cylinders,rwd,125600,silver,clean,automatic,sedan
+"$9,500",2001,2001, Jaguar XJ8L,excellent,8 cylinders,rwd,124600,silver,clean,automatic,sedan
+"$4,000",2006,Honda,Pilot,excellent,8 cylinders,4wd,324907,red,clean,automatic,SUV
+"$15,999",2014,toyota,prius,excellent,4 cylinders,fwd,78795,white,clean,automatic,hatchback
+"$11,750",1998,1997,Jaguar XK8,excellent,8 cylinders,rwd,99229,blue,clean,automatic,convertible
+"$17,900",2019,honda,accord,excellent,4 cylinders,fwd,53000,grey,salvage,automatic,sedan
+"$1,100",2011,honda,accord,fair,4 cylinders,fwd,332000,black,clean,automatic,coupe
+"$2,000",1987,chevy,corvette,fair,8 cylinders,rwd,165000,blue,clean,automatic,coupe
+"$6,500",2014,bmw,320,good,4 cylinders,rwd,150000,grey,clean,automatic,sedan
+"$2,950",2001,lexus,is 300,good,4 cylinders,fwd,200000,grey,clean,automatic,sedan
+"$6,900",2008,lexus,rx 350,new,6 cylinders,fwd,125258,blue,clean,automatic,SUV
+"$35,000",2022,hyundai,tucson limited Hybrid,like new,4 cylinders,4wd,15500,grey,clean,automatic,SUV
+"$14,500",1980,Mercedes,450SL,excellent,8 cylinders,rwd,57000,white,clean,automatic,convertible
+"$6,500",2000,gmc,sierra 1500,good,8 cylinders,4wd,179000,brown,clean,automatic,truck
+"$8,995",2015,2015,nissan altima s,excellent,4 cylinders,fwd,112000,silver,clean,automatic,sedan
+"$6,500",2001,mercedes,benz clk430,excellent,8 cylinders,rwd,140000,black,clean,automatic,convertible
+"$28,000",2015,toyota,tacoma,excellent,6 cylinders,rwd,24963,silver,clean,automatic,truck
+"$4,500",1999,chevrolet,tahoe,good,8 cylinders,4wd,160000,white,clean,automatic,SUV
+"$5,000",2007,mini,cooper s,good,4 cylinders,fwd,125000,custom,clean,automatic,convertible
+"$24,700",2011,land,rover range rover sport,excellent,8 cylinders,4wd,78000,white,clean,automatic,SUV
+"$15,650",2017,subaru,outback,excellent,4 cylinders,4wd,119352,white,clean,automatic,wagon
+"$4,950",2002,chevy,astro ls,excellent,6 cylinders,fwd,141345,blue,clean,automatic,mini-van
+"$29,500",2006,ford,f350 lariat,good,8 cylinders,4wd,95000,blue,clean,automatic,truck
+"$9,300",2001,Dodge,Ram 2500 4wd,good,8 cylinders,4wd,137000,red,clean,automatic,pickup
+"$55,000",2021,2021,Ram Rebel,like new,8 cylinders,4wd,37283,black,clean,automatic,truck
+"$29,000",2017,toyota,sienna se,like new,6 cylinders,fwd,49988,black,clean,automatic,mini-van
+"$49,995",1957,chevrolet,3100 pickup,excellent,8 cylinders,rwd,765,black,clean,automatic,pickup
+"$4,400",2006,mercedes,benz c230 sport,excellent,6 cylinders,rwd,191000,silver,clean,automatic,sedan
+"$7,995",2014,2014,subaru legacy,excellent,4 cylinders,fwd,164000,white,clean,automatic,sedan
+"$5,800",1995,honda,del sol,good,4 cylinders,fwd,132212,black,clean,automatic,coupe
+"$7,500",2015,Nissan,Versa Note SV,excellent,4 cylinders,fwd,102700,white,clean,automatic,hatchback
+"$3,800",2006,honda,odyssey,good,6 cylinders,fwd,200000,silver,clean,automatic,mini-van
+"$5,700",2005,honda,cr-v ex,excellent,4 cylinders,4wd,133461,black,clean,automatic,SUV
+"$9,995",2012,Audi,A3 2.0T Premium Plus,good,4 cylinders,fwd,96749,black,clean,automatic,hatchback
+"$4,650",2004,lincoln,aviator  awd,excellent,8 cylinders,4wd,152000,white,clean,automatic,SUV
+"$5,995",2010,dodge,durango slt 4x4,excellent,8 cylinders,4wd,191000,white,clean,automatic,SUV
+"$3,200",2007,Toyota,Prius Hybrid,fair,4 cylinders,fwd,253447,silver,clean,automatic,hatchback
+"$7,650",2014,dodge,grand caravan,excellent,6 cylinders,fwd,137000,white,clean,automatic,mini-van
+"$17,950",2021,TOYOTA,MARAI XLE,like new,other,rwd,11200,grey,clean,automatic,sedan
+"$5,500",2008,nissan,altima 2.5s,excellent,4 cylinders,fwd,151000,grey,clean,automatic,coupe
+"$15,000",1993,Chevy,G30 van,good,8 cylinders,4wd,208000,grey,clean,automatic,van
+"$17,000",2012,Infiniti,G37 Convertible,good,6 cylinders,rwd,101500,grey,clean,automatic,convertible
+"$20,500",2016,bmw,535i xdrive,excellent,6 cylinders,4wd,70000,blue,clean,automatic,sedan
+"$8,400",2015,chrysler,town and country,excellent,6 cylinders,fwd,85387,grey,clean,automatic,van
+"$32,000",2016,porsche,macan s,like new,6 cylinders,4wd,89754,black,clean,automatic,SUV
+"$9,580",2012,SUBARU,FORESTER  2.5X PREMIUM,like new,4 cylinders,4wd,129000,silver,clean,automatic,SUV
+"$35,000",1960,ford,thunderbird deluxe,excellent,8 cylinders,rwd,5000,custom,clean,automatic,other
+"$26,500",2018,audi,a3 e-tron,excellent,4 cylinders,fwd,27469,white,clean,automatic,hatchback
+"$23,000",2007,ford,mustang shelby gt500,excellent,8 cylinders,rwd,98000,red,clean,manual,convertible
+"$7,500",2010,Mazda3,s Grand Touring Hatchback,good,4 cylinders,fwd,146000,grey,clean,manual,hatchback
+"$6,900",2008,bmw,x5 3.0si,good,6 cylinders,4wd,130000,white,clean,automatic,SUV
+"$27,998",2021,mazda,mx-5 miata grand touring,like new,4 cylinders,rwd,13127,red,clean,manual,convertible
+"$9,250",2013,toyota,prius c,like new,4 cylinders,fwd,128258,blue,salvage,automatic,hatchback
+"$67,900",2020,Land,Rover Range Rover,excellent,6 cylinders,4wd,34750,white,clean,automatic,SUV
+"$12,500",2014,mazda,6,excellent,4 cylinders,fwd,137250,white,clean,automatic,sedan
+"$5,500",2010,dodge,journey r/t,good,6 cylinders,4wd,137000,black,clean,automatic,SUV
+"$10,500",2003,toyota,tacoma,good,6 cylinders,4wd,180000,white,salvage,manual,truck
+"$2,500",2000,nissan,maxima,good,6 cylinders,fwd,208000,blue,clean,automatic,sedan
+"$13,200",2015,honda,civic si,like new,4 cylinders,fwd,92138,white,salvage,manual,sedan
+"$8,500",1975,mg,mgb,good,8 cylinders,rwd,64000,white,clean,manual,convertible
+"$14,900",1997,mercedes,sl320,like new,6 cylinders,rwd,46550,white,clean,automatic,convertible
+"$1,100",1999,1999,Chrysler,fair,6 cylinders,fwd,80000,green,clean,automatic,sedan
+"$3,500",2012,nissan,sentra sl,good,4 cylinders,fwd,160800,silver,clean,automatic,sedan
+"$41,000",2019,ford,f-150,excellent,6 cylinders,4wd,42000,silver,clean,automatic,truck
+"$14,300",2005,2005,Toyota Landcruiser,good,8 cylinders,4wd,239000,white,clean,automatic,SUV
+"$6,000",1996,cadillac,deville,excellent,8 cylinders,fwd,115000,white,clean,automatic,sedan
+"$8,500",2008,mazda,mazdaspeed3,good,4 cylinders,fwd,148744,black,clean,manual,hatchback
+"$9,750",2013,mini,cooper s,like new,4 cylinders,fwd,111000,blue,clean,automatic,coupe
+"$78,900",2018,ford,f 350 4x4,like new,8 cylinders,4wd,46500,white,clean,automatic,truck
+"$9,900",2013,volkswagen,tiguan s,excellent,4 cylinders,fwd,96825,silver,clean,automatic,SUV
+"$2,000",2002,2002,Honda Accord SE,salvage,4 cylinders,fwd,260000,red,salvage,automatic,sedan
+"$27,500",2017,mercedes-benz,s-class s550,excellent,8 cylinders,rwd,79000,blue,clean,automatic,sedan
+"$5,900",2007,ford,focus,good,4 cylinders,fwd,49000,white,clean,automatic,hatchback
+"$28,500",2018,2018,BMW 430i,excellent,4 cylinders,rwd,30700,white,clean,automatic,convertible
+"$26,991",1995,Mercedes-Benz,E Class,like new,6 cylinders,rwd,48069,custom,clean,automatic,convertible
+"$108,888",2022,Tesla,X,new,other,4wd,200,grey,clean,automatic,SUV
+"$54,991",2020,BMW,3 Series,like new,6 cylinders,4wd,14350,blue,clean,automatic,sedan
+"$12,991",1979,Chevrolet,Silverado 1500 Classic,like new,8 cylinders,rwd,67023,red,clean,automatic,truck
+"$56,991",2020,Cadillac,Escalade ESV,like new,8 cylinders,4wd,59350,white,clean,automatic,SUV
+"$55,000",1974,VW,Type 2 Westfalia,excellent,4 cylinders,rwd,59000,custom,clean,manual,bus
+"$28,991",2006,Chevrolet,Corvette,like new,8 cylinders,rwd,38355,red,clean,automatic,coupe
+"$45,991",2016,Land,Rover Range Rover,like new,8 cylinders,4wd,54537,white,clean,automatic,SUV
+"$16,000",2014,toyota,sienna se,like new,6 cylinders,fwd,65122,custom,clean,automatic,van
+"$42,991",2018,Dodge,Charger,like new,8 cylinders,rwd,27594,blue,clean,automatic,sedan
+"$22,991",2008,Chevrolet,Corvette,like new,8 cylinders,rwd,85575,yellow,clean,automatic,coupe
+"$38,991",2018,Mercedes-Benz,E-Class,like new,6 cylinders,rwd,42238,silver,clean,automatic,coupe
+"$45,991",2017,Cadillac,Escalade,like new,8 cylinders,4wd,48595,black,clean,automatic,SUV
+"$15,000",2012,bmw,650i convertible,good,8 cylinders,rwd,82800,black,clean,automatic,convertible
+"$36,991",2019,Lexus,GS,like new,6 cylinders,rwd,53484,custom,clean,automatic,sedan
+"$65,000",2006,dodge,sprinter 2500 hightop,like new,5 cylinders,fwd,107573,white,clean,automatic,van
+"$58,991",2018,Jeep,Grand Cherokee,like new,8 cylinders,4wd,52952,red,clean,automatic,wagon
+"$81,991",2020,BMW,X5 M,like new,8 cylinders,4wd,44443,black,clean,automatic,wagon
+"$41,991",2018,Toyota,4Runner,like new,6 cylinders,4wd,24025,red,clean,automatic,SUV
+"$32,991",2017,Maserati,Ghibli,like new,6 cylinders,rwd,28831,custom,clean,automatic,sedan
+"$7,500",2004,Toyota,4Runner,good,6 cylinders,rwd,215000,silver,clean,automatic,SUV
+"$143,991",2014,Ferrari,California,like new,8 cylinders,rwd,4442,custom,clean,automatic,convertible
+"$55,991",2017,Mercedes-Benz,C-Class,like new,8 cylinders,rwd,24749,white,clean,automatic,coupe
+"$12,000",2010,GLS,550,excellent,8 cylinders,4wd,128200,black,clean,automatic,SUV
+"$58,991",2017,Mercedes-Benz,GLE,like new,8 cylinders,4wd,40176,black,clean,automatic,wagon
+"$38,991",2007,Honda,S2000,like new,4 cylinders,fwd,53009,black,clean,manual,convertible
+"$10,700",2012,BMW,328i M-Sport Conv.,excellent,6 cylinders,rwd,99900,grey,clean,automatic,convertible
+"$32,991",2009,Mercedes-Benz,CL-Class,like new,8 cylinders,rwd,45909,black,clean,automatic,coupe
+"$25,991",2018,Audi,A3 Sedan,like new,4 cylinders,4wd,40493,red,clean,automatic,sedan
+"$54,991",2020,Mercedes-Benz,CLS,like new,6 cylinders,rwd,40317,black,clean,automatic,coupe
+"$15,991",2015,Hyundai,Sonata,like new,4 cylinders,fwd,51946,custom,clean,automatic,sedan
+"$37,000",2014,ford,f-150 raptor,excellent,8 cylinders,4wd,92000,black,clean,automatic,pickup
+"$44,991",2017,Land,Rover Range Rover Sport,like new,8 cylinders,4wd,64033,black,clean,automatic,SUV
+"$39,991",2020,Ford,Mustang,like new,8 cylinders,rwd,20483,custom,clean,other,coupe
+"$33,991",2021,Ford,Explorer,like new,4 cylinders,rwd,30254,red,clean,automatic,wagon
+"$66,991",2018,Dodge,Charger,like new,8 cylinders,rwd,34487,white,clean,automatic,sedan
+"$6,500",1990,Mazda,miata,good,4 cylinders,rwd,180000,yellow,clean,automatic,convertible
+"$42,991",2019,Chevrolet,Camaro,like new,8 cylinders,rwd,37964,white,clean,automatic,coupe
+"$23,991",2018,Chrysler,300,like new,6 cylinders,rwd,64769,blue,clean,automatic,sedan
+"$36,991",2014,Chevrolet,Silverado 1500,like new,8 cylinders,rwd,58316,grey,clean,automatic,truck
+"$5,500",2000,Chevy,"Silverado, LS 1500",good,8 cylinders,rwd,244000,blue,clean,automatic,pickup
+"$17,000",2013,2013,toyota sienna le,excellent,6 cylinders,fwd,119000,red,clean,automatic,van
+"$25,991",2020,Nissan,Maxima,like new,6 cylinders,fwd,64120,silver,clean,automatic,sedan
+"$54,991",2020,Chevrolet,Silverado 1500,like new,8 cylinders,4wd,18677,white,clean,automatic,truck
+"$16,500",2006,chevy,silverado 2500hd,excellent,8 cylinders,4wd,145000,white,clean,automatic,pickup
+"$21,991",2021,Volkswagen,Jetta,like new,4 cylinders,fwd,39977,red,clean,automatic,sedan
+"$10,900",2001,2001,Toyota Tacoma,good,6 cylinders,rwd,170000,red,clean,automatic,truck
+"$15,900",2003,Toyota,Tacoma,excellent,4 cylinders,4wd,140000,red,clean,manual,truck
+"$27,500",2020,Volkswagen,Passat,like new,4 cylinders,fwd,31584,silver,clean,automatic,sedan
+"$68,991",2019,BMW,M5,like new,8 cylinders,4wd,35391,grey,clean,automatic,sedan
+"$14,900",2012,ford,f-350 super duty,good,8 cylinders,rwd,161815,white,clean,automatic,truck
+"$15,700",2015,honda,civic se,excellent,4 cylinders,fwd,55000,silver,clean,automatic,sedan
+"$15,995",2014,toyota,sienna,excellent,6 cylinders,fwd,128360,grey,clean,automatic,mini-van
+"$6,995",2014,chevrolet,impala,excellent,6 cylinders,fwd,108200,white,clean,automatic,sedan
+"$8,995",2008,lexus,es350,excellent,6 cylinders,fwd,142800,black,clean,automatic,sedan
+"$8,995",2011,hyundai,genesis,excellent,4 cylinders,rwd,131350,blue,clean,manual,coupe
+"$10,995",2003,nissan,350z,excellent,6 cylinders,rwd,128200,silver,clean,automatic,coupe
+"$7,995",2005,nissan,murano,excellent,6 cylinders,4wd,71800,grey,clean,automatic,SUV
+"$8,995",2006,chevrolet,colorado,excellent,5 cylinders,rwd,130000,white,clean,automatic,truck
+"$31,500",2003,hummer,h2,like new,8 cylinders,4wd,78030,orange,clean,automatic,SUV
+"$9,495",2007,toyota,camry,excellent,4 cylinders,fwd,83700,silver,clean,automatic,sedan
+"$9,995",2014,chevrolet,volt,excellent,4 cylinders,fwd,100650,white,clean,automatic,hatchback
+"$8,995",2009,honda,odyssey,excellent,6 cylinders,fwd,120000,grey,clean,automatic,mini-van
+"$8,995",2008,bmw,x3,excellent,6 cylinders,4wd,75000,grey,clean,automatic,SUV
+"$24,000",2015,mercedes,benz e350,like new,6 cylinders,rwd,44000,silver,clean,automatic,sedan
+"$5,000",2011,Chevy,traverse,good,6 cylinders,4wd,166000,grey,clean,automatic,SUV
+"$33,000",2017,chevy,camaro,excellent,8 cylinders,rwd,38890,black,clean,manual,coupe
+"$34,991",2020,BMW,X1,like new,4 cylinders,4wd,14125,blue,clean,automatic,wagon
+"$6,500",2007,toyota,sequoia,good,8 cylinders,4wd,220000,red,clean,automatic,SUV
+"$39,000",2018,Chevy,Silverado 1500 Lt 4x4,new,8 cylinders,4wd,10977,grey,clean,automatic,truck
+"$2,995",2001,TOYOTA,CAMRY,good,4 cylinders,fwd,173087,silver,clean,automatic,sedan
+"$6,000",2010,Mercedes,Benz E350,good,6 cylinders,rwd,174650,blue,clean,automatic,sedan
+"$57,891",2018,Dodge,Durango,like new,8 cylinders,4wd,34556,white,clean,automatic,wagon
+"$49,991",2015,Mercedes-Benz,S-Class,like new,8 cylinders,rwd,51900,silver,clean,automatic,coupe
+"$6,500",2010,Toyota,Prius Hybrid,excellent,4 cylinders,fwd,198500,white,clean,automatic,hatchback
+"$26,991",2016,BMW,4 Series,like new,4 cylinders,rwd,26261,white,clean,automatic,coupe
+"$15,991",2014,Mazda,MAZDA3,like new,4 cylinders,fwd,79087,white,clean,automatic,sedan
+"$8,000",2007,lexus,is 250,excellent,6 cylinders,rwd,160000,blue,clean,automatic,sedan
+"$9,500",2001,2001, Jaguar XJ8L,excellent,8 cylinders,rwd,125600,silver,clean,automatic,sedan
+"$9,500",2001,2001, Jaguar XJ8L,excellent,8 cylinders,rwd,124600,silver,clean,automatic,sedan
+"$4,000",2006,Honda,Pilot,excellent,8 cylinders,4wd,324907,red,clean,automatic,SUV
+"$15,999",2014,toyota,prius,excellent,4 cylinders,fwd,78795,white,clean,automatic,hatchback
+"$11,750",1998,1997,Jaguar XK8,excellent,8 cylinders,rwd,99229,blue,clean,automatic,convertible
+"$17,900",2019,honda,accord,excellent,4 cylinders,fwd,53000,grey,salvage,automatic,sedan
+"$1,100",2011,honda,accord,fair,4 cylinders,fwd,332000,black,clean,automatic,coupe
+"$2,000",1987,chevy,corvette,fair,8 cylinders,rwd,165000,blue,clean,automatic,coupe
+"$6,500",2014,bmw,320,good,4 cylinders,rwd,150000,grey,clean,automatic,sedan
+"$2,950",2001,lexus,is 300,good,4 cylinders,fwd,200000,grey,clean,automatic,sedan
+"$6,900",2008,lexus,rx 350,new,6 cylinders,fwd,125258,blue,clean,automatic,SUV
+"$35,000",2022,hyundai,tucson limited Hybrid,like new,4 cylinders,4wd,15500,grey,clean,automatic,SUV
+"$14,500",1980,Mercedes,450SL,excellent,8 cylinders,rwd,57000,white,clean,automatic,convertible
+"$6,500",2000,gmc,sierra 1500,good,8 cylinders,4wd,179000,brown,clean,automatic,truck
+"$8,995",2015,2015,nissan altima s,excellent,4 cylinders,fwd,112000,silver,clean,automatic,sedan
+"$6,500",2001,mercedes,benz clk430,excellent,8 cylinders,rwd,140000,black,clean,automatic,convertible
+"$28,000",2015,toyota,tacoma,excellent,6 cylinders,rwd,24963,silver,clean,automatic,truck
+"$4,500",1999,chevrolet,tahoe,good,8 cylinders,4wd,160000,white,clean,automatic,SUV
+"$5,000",2007,mini,cooper s,good,4 cylinders,fwd,125000,custom,clean,automatic,convertible
+"$24,700",2011,land,rover range rover sport,excellent,8 cylinders,4wd,78000,white,clean,automatic,SUV
+"$15,650",2017,subaru,outback,excellent,4 cylinders,4wd,119352,white,clean,automatic,wagon
+"$4,950",2002,chevy,astro ls,excellent,6 cylinders,fwd,141345,blue,clean,automatic,mini-van
+"$29,500",2006,ford,f350 lariat,good,8 cylinders,4wd,95000,blue,clean,automatic,truck
+"$9,300",2001,Dodge,Ram 2500 4wd,good,8 cylinders,4wd,137000,red,clean,automatic,pickup
+"$55,000",2021,2021,Ram Rebel,like new,8 cylinders,4wd,37283,black,clean,automatic,truck
+"$29,000",2017,toyota,sienna se,like new,6 cylinders,fwd,49988,black,clean,automatic,mini-van
+"$49,995",1957,chevrolet,3100 pickup,excellent,8 cylinders,rwd,765,black,clean,automatic,pickup
+"$4,400",2006,mercedes,benz c230 sport,excellent,6 cylinders,rwd,191000,silver,clean,automatic,sedan
+"$7,995",2014,2014,subaru legacy,excellent,4 cylinders,fwd,164000,white,clean,automatic,sedan
+"$5,800",1995,honda,del sol,good,4 cylinders,fwd,132212,black,clean,automatic,coupe
