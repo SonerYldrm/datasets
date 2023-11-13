@@ -1,0 +1,22 @@
+raw_issues,summaries
+"""[1-The find_duplicates method is inefficiently using the data structures leading to high time complexity., 
+2- Built-in data structures are not used efficiently in the generate_meta method.,
+3- In the ExerciseGenerator class, excessive use of global variables may slow down the program.,
+4- The get_all_contributors_for_repo method is not using built-in functions and libraries which are optimized for performance.,
+5- Inefficient memory management in the process_run_results method, such as creating unnecessary objects or not freeing up memory.,
+6- Testing Issue: Lack of unit tests leading to undetected bugs and errors.,
+7- The test method `test_find_fixed_issues` is not asserting any conditions. It's important to assert conditions in a test to verify that the code behaves as expected.,
+8- Inadequate test coverage, not all parts of the code are tested.,
+9.-Testing Issue: Not mocking external services or dependencies in tests, leading to unreliable test results.,
+10- The `run_code_scan` and `run_pr_scan` functions do not have unit tests. Unit tests should be written for these functions to ensure they work as expected and to make it easier to identify and fix any issues that arise in the future.,
+11- Code Design Issue: Lack of proper error handling and exception management.,
+12- Code Design Issue: Not following the DRY (Don't Repeat Yourself) principle, leading to redundant code.,
+13- Code Design Issue: Poorly structured code with lack of modularity and encapsulation, making the code hard to understand and maintain.]""","{
+  ""issue_summaries"": {
+    ""Inefficient use of data structures and built-in functions"": [1, 2, 4],
+    ""Poor memory management"": [5],
+    ""Inadequate testing practices"": [6, 7, 8, 9, 10],
+    ""Poor code design principles"": [12, 13, 14],
+    ""Excessive use of global variables"": [3]
+  }
+}"
